@@ -26,8 +26,6 @@ Diseño y escalo productos web con **TypeScript/NestJS**, **React/Next.js** y **
 ---
 
 ## Proyectos destacados
-- **Helios-JS** — framework backend modular en **TypeScript** para rutas de API dinámicas. → [repo](https://github.com/juhasztobias/helios-js)
-- **Challenge Palindrome** — challenge full-stack (backend Node + UI web). → [repo](https://github.com/juhasztobias/challenge-palindrome)
 - **Pago-zen (hci-wallet)** — app de pagos (Vite + Vue + Tailwind). → [repo](https://github.com/juhasztobias/hci-wallet)
 - **swagger-express-decorators** — fork para documentar APIs **Express** con decorators. → [repo](https://github.com/juhasztobias/swagger-express-decorators)
 - **Polenta.app** — plataforma colaborativa para organización y productividad de equipos. *(resumen público)*
