@@ -9,8 +9,7 @@ Diseño y escalo productos web con **TypeScript/NestJS**, **React/Next.js** y **
 ## Qué hago actualmente
 - Microservicios en **NestJS** para optimizar APIs y despliegues.
 - Frontends en **React/Next.js** con foco en performance y UX.
-- Scraping y testing automatizado con **Python (Playwright, Scrapy)**.
-
+- Diseño de arquitectura modulares.
 ---
 
 ## Stack
@@ -19,8 +18,6 @@ Diseño y escalo productos web con **TypeScript/NestJS**, **React/Next.js** y **
 ![React](https://img.shields.io/badge/-React-61dafb?logo=react&logoColor=white&style=flat-square)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776ab?logo=python&logoColor=white&style=flat-square)
-![Playwright](https://img.shields.io/badge/-Playwright-45ba75?logo=playwright&logoColor=white&style=flat-square)
-![Scrapy](https://img.shields.io/badge/-Scrapy-65c9a5?logo=scrapy&logoColor=white&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
