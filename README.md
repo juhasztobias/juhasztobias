@@ -1,15 +1,15 @@
 # Tobias Juhasz
+**Senior Developer building at Kepleris** · Buenos Aires, AR
 
-**Senior Developer building @ Kepleris** · Buenos Aires, AR
-
-Diseño y escalo productos web con **TypeScript/NestJS**, **React/Next.js** y **Python**; convierto flujos manuales en servicios simples y rápidos, listos para producción.
+I design and scale web products with **TypeScript/NestJS**, **React/Next.js**, and **Python**; I turn manual workflows into simple, fast services that are production-ready.
 
 ---
 
-## Qué hago actualmente
-- Microservicios en **NestJS** para optimizar APIs y despliegues.
-- Frontends en **React/Next.js** con foco en performance y UX.
-- Diseño de arquitectura modulares.
+## What I'm working on now
+- Microservices in **NestJS** to optimize APIs and deployments.
+- Frontends in **React/Next.js** with a focus on performance and UX.
+- Designing modular architectures.
+
 ---
 
 ## Stack
@@ -25,35 +25,7 @@ Diseño y escalo productos web con **TypeScript/NestJS**, **React/Next.js** y **
 
 ---
 
-## Proyectos destacados
-- **Pago-zen (hci-wallet)** — app de pagos (Vite + Vue + Tailwind). → [repo](https://github.com/juhasztobias/hci-wallet)
-- **swagger-express-decorators** — fork para documentar APIs **Express** con decorators. → [repo](https://github.com/juhasztobias/swagger-express-decorators)
-- **Polenta.app** — plataforma colaborativa para organización y productividad de equipos. *(resumen público)*
-
----
-
-## Principios de trabajo
-- **Claridad > complejidad:** código legible, modular y con tipado estricto.  
-- **Automatizar lo repetitivo:** scripts, pipelines y checks para no romper el flujo.  
-- **Medir para mejorar:** logs, métricas y límites de performance definidos.  
-- **Calidad continua:** tests, CI/CD y releases reproducibles con Docker.
-
----
-
-## Stats
-<a href="https://github.com/juhasztobias">
-  <img alt="Actividad en GitHub de Tobias Juhasz (commits, repos, íconos)" src="https://github-readme-stats.vercel.app/api?username=juhasztobias&show_icons=true&locale=es&hide_title=true&hide_border=true&theme=transparent" />
-</a>
-<a href="https://github.com/juhasztobias">
-  <img alt="Lenguajes más usados por Tobias Juhasz (vista compacta)" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juhasztobias&layout=compact&locale=es&hide_border=true&theme=transparent" />
-</a>
-
----
-
-## Contacto
-LinkedIn → https://www.linkedin.com/in/tobiasjuhasz/
-
----
-
-## Fuera del código
-Entrenamiento en el gimnasio, aprendizaje continuo y lectura. Buen balance para pensar mejor y construir mejor.
+## Featured projects
+- **Pago-zen (hci-wallet)** — payment app (Vite + Vue + Tailwind). → [repo](https://github.com/juhasztobias/hci-wallet)
+- **swagger-express-decorators** — fork for documenting **Express** APIs with decorators. → [repo](https://github.com/juhasztobias/swagger-express-decorators)
+- **Polenta.app** — collaborative platform for team organization and productivity. *(public summary)*
