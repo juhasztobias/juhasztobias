@@ -1,6 +1,6 @@
 # Tobias Juhasz
 
-**Full-stack Developer @ Suris Code** · Buenos Aires, AR
+**Senior Developer building @ Kepleris** · Buenos Aires, AR
 
 Diseño y escalo productos web con **TypeScript/NestJS**, **React/Next.js** y **Python**; convierto flujos manuales en servicios simples y rápidos, listos para producción.
 
